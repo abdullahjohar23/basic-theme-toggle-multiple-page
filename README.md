@@ -1,16 +1,18 @@
-# theme_app_two
+# Flutter Theme Toggle App 🌗
 
-A new Flutter project.
+A Flutter application demonstrating how to toggle between **Light** and **Dark** themes using `Provider`. The toggle is available only on the **Home Page**, but the theme applies globally across multiple pages.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔄 Light/Dark theme toggle with `Provider`
+- 🧠 Global theme state management
+- 🗂️ Multi-page navigation (`Home`, `Page One`, `Page Two`, `Page Three`)
+- 🎨 Custom switch colors
+- ✅ Clean code structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screenshots
+![Image](https://github.com/user-attachments/assets/ed09322f-e140-4b74-a20a-0b5660b37054)
